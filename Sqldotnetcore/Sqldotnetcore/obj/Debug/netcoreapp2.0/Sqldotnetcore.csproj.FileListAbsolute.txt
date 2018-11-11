@@ -1,0 +1,10 @@
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\bin\Debug\netcoreapp2.0\Sqldotnetcore.deps.json
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\bin\Debug\netcoreapp2.0\Sqldotnetcore.runtimeconfig.json
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\bin\Debug\netcoreapp2.0\Sqldotnetcore.runtimeconfig.dev.json
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\bin\Debug\netcoreapp2.0\Sqldotnetcore.dll
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\obj\Debug\netcoreapp2.0\Sqldotnetcore.csproj.CoreCompileInputs.cache
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\obj\Debug\netcoreapp2.0\Sqldotnetcore.AssemblyInfoInputs.cache
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\obj\Debug\netcoreapp2.0\Sqldotnetcore.AssemblyInfo.cs
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\bin\Debug\netcoreapp2.0\Sqldotnetcore.pdb
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\obj\Debug\netcoreapp2.0\Sqldotnetcore.dll
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\obj\Debug\netcoreapp2.0\Sqldotnetcore.pdb

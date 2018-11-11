@@ -1,0 +1,14 @@
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\bin\Debug\netcoreapp2.0\rhel.7.4-x64\libhostpolicy.so
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\bin\Debug\netcoreapp2.0\rhel.7.4-x64\libhostfxr.so
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\bin\Debug\netcoreapp2.0\rhel.7.4-x64\Sqldotnetcore
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\bin\Debug\netcoreapp2.0\rhel.7.4-x64\Sqldotnetcore.deps.json
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\bin\Debug\netcoreapp2.0\rhel.7.4-x64\Sqldotnetcore.runtimeconfig.json
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\bin\Debug\netcoreapp2.0\rhel.7.4-x64\Sqldotnetcore.runtimeconfig.dev.json
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\bin\Debug\netcoreapp2.0\rhel.7.4-x64\Sqldotnetcore.dll
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\bin\Debug\netcoreapp2.0\rhel.7.4-x64\Sqldotnetcore.pdb
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\obj\Debug\netcoreapp2.0\rhel.7.4-x64\Sqldotnetcore.csprojAssemblyReference.cache
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\obj\Debug\netcoreapp2.0\rhel.7.4-x64\Sqldotnetcore.csproj.CoreCompileInputs.cache
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\obj\Debug\netcoreapp2.0\rhel.7.4-x64\Sqldotnetcore.AssemblyInfoInputs.cache
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\obj\Debug\netcoreapp2.0\rhel.7.4-x64\Sqldotnetcore.AssemblyInfo.cs
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\obj\Debug\netcoreapp2.0\rhel.7.4-x64\Sqldotnetcore.dll
+E:\C#\programs\projects\Sqldotnetcore\Sqldotnetcore\obj\Debug\netcoreapp2.0\rhel.7.4-x64\Sqldotnetcore.pdb
