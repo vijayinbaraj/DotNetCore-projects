@@ -1,0 +1,11 @@
+E:\C#\programs\projects\multithreading4\multithreading4\bin\Debug\netcoreapp2.0\multithreading4.deps.json
+E:\C#\programs\projects\multithreading4\multithreading4\bin\Debug\netcoreapp2.0\multithreading4.runtimeconfig.json
+E:\C#\programs\projects\multithreading4\multithreading4\bin\Debug\netcoreapp2.0\multithreading4.runtimeconfig.dev.json
+E:\C#\programs\projects\multithreading4\multithreading4\bin\Debug\netcoreapp2.0\multithreading4.dll
+E:\C#\programs\projects\multithreading4\multithreading4\bin\Debug\netcoreapp2.0\multithreading4.pdb
+E:\C#\programs\projects\multithreading4\multithreading4\obj\Debug\netcoreapp2.0\multithreading4.csproj.CoreCompileInputs.cache
+E:\C#\programs\projects\multithreading4\multithreading4\obj\Debug\netcoreapp2.0\multithreading4.AssemblyInfoInputs.cache
+E:\C#\programs\projects\multithreading4\multithreading4\obj\Debug\netcoreapp2.0\multithreading4.AssemblyInfo.cs
+E:\C#\programs\projects\multithreading4\multithreading4\obj\Debug\netcoreapp2.0\multithreading4.dll
+E:\C#\programs\projects\multithreading4\multithreading4\obj\Debug\netcoreapp2.0\multithreading4.pdb
+E:\C#\programs\projects\multithreading4\multithreading4\obj\Debug\netcoreapp2.0\multithreading4.csprojAssemblyReference.cache
